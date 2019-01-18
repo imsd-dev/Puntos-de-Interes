@@ -1,0 +1,1 @@
+[12-Oct-2018 13:47:41 Etc/GMT+3] PHP Fatal error:  Call to a member function getcat() on null in /home/santod85/sistemas.santodomingo.cl/puntos/application/controllers/Puntos.php on line 28

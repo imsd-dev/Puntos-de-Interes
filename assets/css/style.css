@@ -1,0 +1,56 @@
+@media screen and (min-width: 400px) {
+
+.containerlogin{
+  width: 80%;
+ float: right;
+}
+
+.rowlogin{
+  width: 70%;
+}
+
+.colbox {
+ margin-left: 0px;
+ margin-right: 0px;
+     }
+
+      body{
+
+          background-color: #34495e;
+     }
+     h2,h4 {
+          color: #ecf0f1;
+     }
+
+     .colbox {
+          margin-left: 0px;
+          margin-right: 0px;
+     }
+
+
+
+     @media screen and (min-width: 400px) {
+
+          #containerlogin{
+            width: 80%;
+           float: right;
+
+          }
+
+          #rowlogin{
+            width: 70%;
+          }
+     }
+        @media screen and (max-width: 400px) {
+
+           h2 {
+               
+               font-size :33px;
+          }
+          h4{
+               font-size :19px;
+          }
+     }
+
+
+}
